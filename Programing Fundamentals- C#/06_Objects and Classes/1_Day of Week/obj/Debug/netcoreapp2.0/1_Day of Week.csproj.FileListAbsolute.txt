@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\bin\Debug\netcoreapp2.0\1_Day of Week.deps.json
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\bin\Debug\netcoreapp2.0\1_Day of Week.runtimeconfig.json
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\bin\Debug\netcoreapp2.0\1_Day of Week.runtimeconfig.dev.json
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\bin\Debug\netcoreapp2.0\1_Day of Week.dll
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\bin\Debug\netcoreapp2.0\1_Day of Week.pdb
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\obj\Debug\netcoreapp2.0\1_Day of Week.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\obj\Debug\netcoreapp2.0\1_Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\obj\Debug\netcoreapp2.0\1_Day of Week.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\obj\Debug\netcoreapp2.0\1_Day of Week.AssemblyInfo.cs
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\obj\Debug\netcoreapp2.0\1_Day of Week.dll
+C:\Users\operator\source\repos\06_Objects and Classes\06_Objects and Classes\obj\Debug\netcoreapp2.0\1_Day of Week.pdb

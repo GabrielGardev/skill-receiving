@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\bin\Debug\netcoreapp2.0\3_Intersection of Circles.deps.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\bin\Debug\netcoreapp2.0\3_Intersection of Circles.runtimeconfig.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\bin\Debug\netcoreapp2.0\3_Intersection of Circles.runtimeconfig.dev.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\bin\Debug\netcoreapp2.0\3_Intersection of Circles.dll
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\bin\Debug\netcoreapp2.0\3_Intersection of Circles.pdb
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\obj\Debug\netcoreapp2.0\3_Intersection of Circles.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\obj\Debug\netcoreapp2.0\3_Intersection of Circles.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\obj\Debug\netcoreapp2.0\3_Intersection of Circles.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\obj\Debug\netcoreapp2.0\3_Intersection of Circles.AssemblyInfo.cs
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\obj\Debug\netcoreapp2.0\3_Intersection of Circles.dll
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\3_Intersection of Circles\obj\Debug\netcoreapp2.0\3_Intersection of Circles.pdb

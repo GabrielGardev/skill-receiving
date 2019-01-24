@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\bin\Debug\netcoreapp2.0\1_Extract Emails.deps.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\bin\Debug\netcoreapp2.0\1_Extract Emails.runtimeconfig.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\bin\Debug\netcoreapp2.0\1_Extract Emails.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\bin\Debug\netcoreapp2.0\1_Extract Emails.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\bin\Debug\netcoreapp2.0\1_Extract Emails.pdb
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\obj\Debug\netcoreapp2.0\1_Extract Emails.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\obj\Debug\netcoreapp2.0\1_Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\obj\Debug\netcoreapp2.0\1_Extract Emails.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\obj\Debug\netcoreapp2.0\1_Extract Emails.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\obj\Debug\netcoreapp2.0\1_Extract Emails.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\08_Regular Expressions (RegEx) - EXE\obj\Debug\netcoreapp2.0\1_Extract Emails.pdb

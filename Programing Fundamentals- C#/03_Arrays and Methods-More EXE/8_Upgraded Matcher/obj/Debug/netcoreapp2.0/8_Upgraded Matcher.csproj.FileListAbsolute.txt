@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\bin\Debug\netcoreapp2.0\8_Upgraded Matcher.deps.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\bin\Debug\netcoreapp2.0\8_Upgraded Matcher.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\bin\Debug\netcoreapp2.0\8_Upgraded Matcher.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\bin\Debug\netcoreapp2.0\8_Upgraded Matcher.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\bin\Debug\netcoreapp2.0\8_Upgraded Matcher.pdb
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\obj\Debug\netcoreapp2.0\8_Upgraded Matcher.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\obj\Debug\netcoreapp2.0\8_Upgraded Matcher.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\obj\Debug\netcoreapp2.0\8_Upgraded Matcher.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\obj\Debug\netcoreapp2.0\8_Upgraded Matcher.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\obj\Debug\netcoreapp2.0\8_Upgraded Matcher.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\8_Upgraded Matcher\obj\Debug\netcoreapp2.0\8_Upgraded Matcher.pdb

@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\bin\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\bin\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\bin\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\bin\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\bin\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\obj\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\obj\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\obj\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\obj\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-EXE\2_Practice_Floating_Point_Numbers\obj\Debug\netcoreapp2.0\2_Practice_Floating_Point_Numbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\bin\Debug\netcoreapp2.0\5_Temperature Conversion.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\bin\Debug\netcoreapp2.0\5_Temperature Conversion.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\bin\Debug\netcoreapp2.0\5_Temperature Conversion.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\bin\Debug\netcoreapp2.0\5_Temperature Conversion.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\bin\Debug\netcoreapp2.0\5_Temperature Conversion.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\obj\Debug\netcoreapp2.0\5_Temperature Conversion.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\obj\Debug\netcoreapp2.0\5_Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\obj\Debug\netcoreapp2.0\5_Temperature Conversion.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\obj\Debug\netcoreapp2.0\5_Temperature Conversion.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\obj\Debug\netcoreapp2.0\5_Temperature Conversion.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\5_Temperature Conversion\obj\Debug\netcoreapp2.0\5_Temperature Conversion.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\bin\Debug\netcoreapp2.0\18_Sequence of Commands.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\bin\Debug\netcoreapp2.0\18_Sequence of Commands.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\bin\Debug\netcoreapp2.0\18_Sequence of Commands.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\bin\Debug\netcoreapp2.0\18_Sequence of Commands.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\bin\Debug\netcoreapp2.0\18_Sequence of Commands.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\obj\Debug\netcoreapp2.0\18_Sequence of Commands.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\obj\Debug\netcoreapp2.0\18_Sequence of Commands.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\obj\Debug\netcoreapp2.0\18_Sequence of Commands.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\obj\Debug\netcoreapp2.0\18_Sequence of Commands.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\obj\Debug\netcoreapp2.0\18_Sequence of Commands.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\18_Sequence of Commands\obj\Debug\netcoreapp2.0\18_Sequence of Commands.pdb

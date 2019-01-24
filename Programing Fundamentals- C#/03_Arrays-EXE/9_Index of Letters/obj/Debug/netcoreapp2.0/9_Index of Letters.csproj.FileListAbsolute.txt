@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\bin\Debug\netcoreapp2.0\9_Index of Letters.deps.json
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\bin\Debug\netcoreapp2.0\9_Index of Letters.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\bin\Debug\netcoreapp2.0\9_Index of Letters.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\bin\Debug\netcoreapp2.0\9_Index of Letters.dll
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\bin\Debug\netcoreapp2.0\9_Index of Letters.pdb
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\obj\Debug\netcoreapp2.0\9_Index of Letters.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\obj\Debug\netcoreapp2.0\9_Index of Letters.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\obj\Debug\netcoreapp2.0\9_Index of Letters.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\obj\Debug\netcoreapp2.0\9_Index of Letters.dll
+C:\Users\operator\source\repos\03_Arrays_EXE\9_Index of Letters\obj\Debug\netcoreapp2.0\9_Index of Letters.pdb

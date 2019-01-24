@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\bin\Debug\netcoreapp2.0\9_Legendary Farming.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\bin\Debug\netcoreapp2.0\9_Legendary Farming.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\bin\Debug\netcoreapp2.0\9_Legendary Farming.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\bin\Debug\netcoreapp2.0\9_Legendary Farming.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\bin\Debug\netcoreapp2.0\9_Legendary Farming.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\obj\Debug\netcoreapp2.0\9_Legendary Farming.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\obj\Debug\netcoreapp2.0\9_Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\obj\Debug\netcoreapp2.0\9_Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\obj\Debug\netcoreapp2.0\9_Legendary Farming.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\obj\Debug\netcoreapp2.0\9_Legendary Farming.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries, Lambda and LINQ-EXE\9_Legendary Farming\obj\Debug\netcoreapp2.0\9_Legendary Farming.pdb

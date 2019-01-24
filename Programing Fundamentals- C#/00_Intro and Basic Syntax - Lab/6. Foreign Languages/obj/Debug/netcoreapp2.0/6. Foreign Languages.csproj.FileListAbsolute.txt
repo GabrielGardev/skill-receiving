@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\bin\Debug\netcoreapp2.0\6. Foreign Languages.deps.json
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\bin\Debug\netcoreapp2.0\6. Foreign Languages.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\bin\Debug\netcoreapp2.0\6. Foreign Languages.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\bin\Debug\netcoreapp2.0\6. Foreign Languages.dll
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\bin\Debug\netcoreapp2.0\6. Foreign Languages.pdb
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\obj\Debug\netcoreapp2.0\6. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\obj\Debug\netcoreapp2.0\6. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\obj\Debug\netcoreapp2.0\6. Foreign Languages.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\obj\Debug\netcoreapp2.0\6. Foreign Languages.dll
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Lab\6. Foreign Languages\obj\Debug\netcoreapp2.0\6. Foreign Languages.pdb

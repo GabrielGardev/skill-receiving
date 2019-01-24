@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\bin\Debug\netcoreapp2.0\8_Mentor Group.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\bin\Debug\netcoreapp2.0\8_Mentor Group.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\bin\Debug\netcoreapp2.0\8_Mentor Group.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\bin\Debug\netcoreapp2.0\8_Mentor Group.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\bin\Debug\netcoreapp2.0\8_Mentor Group.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\obj\Debug\netcoreapp2.0\8_Mentor Group.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\obj\Debug\netcoreapp2.0\8_Mentor Group.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\obj\Debug\netcoreapp2.0\8_Mentor Group.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\obj\Debug\netcoreapp2.0\8_Mentor Group.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\obj\Debug\netcoreapp2.0\8_Mentor Group.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\06_Objects and Classes-EXE\ConsoleApp1\obj\Debug\netcoreapp2.0\8_Mentor Group.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\bin\Debug\netcoreapp2.0\2_Email me.deps.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\bin\Debug\netcoreapp2.0\2_Email me.runtimeconfig.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\bin\Debug\netcoreapp2.0\2_Email me.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\bin\Debug\netcoreapp2.0\2_Email me.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\bin\Debug\netcoreapp2.0\2_Email me.pdb
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\obj\Debug\netcoreapp2.0\2_Email me.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\obj\Debug\netcoreapp2.0\2_Email me.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\obj\Debug\netcoreapp2.0\2_Email me.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\obj\Debug\netcoreapp2.0\2_Email me.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\2_Email me\obj\Debug\netcoreapp2.0\2_Email me.pdb

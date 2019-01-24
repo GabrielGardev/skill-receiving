@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\3_Immune System.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\3_Immune System.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\3_Immune System.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\3_Immune System.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\3_Immune System.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\3_Immune System.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\3_Immune System.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\3_Immune System.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\3_Immune System.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\3_Immune System.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\3_Immune System.pdb

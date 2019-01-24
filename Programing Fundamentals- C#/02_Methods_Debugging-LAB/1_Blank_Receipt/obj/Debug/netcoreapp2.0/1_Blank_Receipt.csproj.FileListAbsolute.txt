@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\bin\Debug\netcoreapp2.0\1_Blank_Receipt.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\bin\Debug\netcoreapp2.0\1_Blank_Receipt.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\bin\Debug\netcoreapp2.0\1_Blank_Receipt.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\bin\Debug\netcoreapp2.0\1_Blank_Receipt.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\bin\Debug\netcoreapp2.0\1_Blank_Receipt.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\obj\Debug\netcoreapp2.0\1_Blank_Receipt.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\obj\Debug\netcoreapp2.0\1_Blank_Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\obj\Debug\netcoreapp2.0\1_Blank_Receipt.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\obj\Debug\netcoreapp2.0\1_Blank_Receipt.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\obj\Debug\netcoreapp2.0\1_Blank_Receipt.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\02_Methods_Debugging-LAB\02_Methods_Debugging-LAB\obj\Debug\netcoreapp2.0\1_Blank_Receipt.pdb

@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\bin\Debug\netcoreapp2.0\1. Ages.deps.json
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\bin\Debug\netcoreapp2.0\1. Ages.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\bin\Debug\netcoreapp2.0\1. Ages.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\bin\Debug\netcoreapp2.0\1. Ages.dll
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\bin\Debug\netcoreapp2.0\1. Ages.pdb
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\obj\Debug\netcoreapp2.0\1. Ages.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\obj\Debug\netcoreapp2.0\1. Ages.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\obj\Debug\netcoreapp2.0\1. Ages.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\obj\Debug\netcoreapp2.0\1. Ages.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\obj\Debug\netcoreapp2.0\1. Ages.dll
+C:\Users\Freeware Sys\Projects\Technology Fundamentals 4.0\1. Intro and Basic Syntax\Intro and Basic Syntax - Exe\Intro and Basic Syntax - Exe\obj\Debug\netcoreapp2.0\1. Ages.pdb

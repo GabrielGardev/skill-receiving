@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2_Reverse an Array of Integers.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2_Reverse an Array of Integers.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2_Reverse an Array of Integers.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2_Reverse an Array of Integers.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2_Reverse an Array of Integers.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2_Reverse an Array of Integers.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2_Reverse an Array of Integers.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2_Reverse an Array of Integers.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2_Reverse an Array of Integers.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2_Reverse an Array of Integers.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-LAB\2_Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2_Reverse an Array of Integers.pdb

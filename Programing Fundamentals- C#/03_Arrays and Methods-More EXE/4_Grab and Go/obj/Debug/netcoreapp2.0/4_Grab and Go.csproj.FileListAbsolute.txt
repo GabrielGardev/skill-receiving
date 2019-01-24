@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\bin\Debug\netcoreapp2.0\4_Grab and Go.deps.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\bin\Debug\netcoreapp2.0\4_Grab and Go.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\bin\Debug\netcoreapp2.0\4_Grab and Go.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\bin\Debug\netcoreapp2.0\4_Grab and Go.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\bin\Debug\netcoreapp2.0\4_Grab and Go.pdb
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\obj\Debug\netcoreapp2.0\4_Grab and Go.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\obj\Debug\netcoreapp2.0\4_Grab and Go.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\obj\Debug\netcoreapp2.0\4_Grab and Go.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\obj\Debug\netcoreapp2.0\4_Grab and Go.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\4_Grab and Go\obj\Debug\netcoreapp2.0\4_Grab and Go.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\bin\Debug\netcoreapp2.0\1_Array Statistics.deps.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\bin\Debug\netcoreapp2.0\1_Array Statistics.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\bin\Debug\netcoreapp2.0\1_Array Statistics.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\bin\Debug\netcoreapp2.0\1_Array Statistics.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\bin\Debug\netcoreapp2.0\1_Array Statistics.pdb
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\obj\Debug\netcoreapp2.0\1_Array Statistics.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\obj\Debug\netcoreapp2.0\1_Array Statistics.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\obj\Debug\netcoreapp2.0\1_Array Statistics.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\obj\Debug\netcoreapp2.0\1_Array Statistics.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\obj\Debug\netcoreapp2.0\1_Array Statistics.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\03_Arrays and Methods-More EXE\obj\Debug\netcoreapp2.0\1_Array Statistics.pdb

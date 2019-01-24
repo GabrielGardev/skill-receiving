@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\bin\Debug\netcoreapp2.0\5_Only Letters.deps.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\bin\Debug\netcoreapp2.0\5_Only Letters.runtimeconfig.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\bin\Debug\netcoreapp2.0\5_Only Letters.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\bin\Debug\netcoreapp2.0\5_Only Letters.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\bin\Debug\netcoreapp2.0\5_Only Letters.pdb
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\obj\Debug\netcoreapp2.0\5_Only Letters.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\obj\Debug\netcoreapp2.0\5_Only Letters.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\obj\Debug\netcoreapp2.0\5_Only Letters.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\obj\Debug\netcoreapp2.0\5_Only Letters.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\obj\Debug\netcoreapp2.0\5_Only Letters.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\5_Only Letters\obj\Debug\netcoreapp2.0\5_Only Letters.pdb

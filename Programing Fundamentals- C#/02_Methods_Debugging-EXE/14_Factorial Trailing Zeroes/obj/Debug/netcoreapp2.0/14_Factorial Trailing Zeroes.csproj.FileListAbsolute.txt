@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\14_Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14_Factorial Trailing Zeroes.pdb

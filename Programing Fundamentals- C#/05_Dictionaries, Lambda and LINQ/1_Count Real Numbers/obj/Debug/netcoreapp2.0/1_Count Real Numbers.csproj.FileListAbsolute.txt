@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp2.0\1_Count Real Numbers.deps.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp2.0\1_Count Real Numbers.runtimeconfig.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp2.0\1_Count Real Numbers.runtimeconfig.dev.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp2.0\1_Count Real Numbers.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp2.0\1_Count Real Numbers.pdb
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp2.0\1_Count Real Numbers.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp2.0\1_Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp2.0\1_Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp2.0\1_Count Real Numbers.AssemblyInfo.cs
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp2.0\1_Count Real Numbers.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\05_Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp2.0\1_Count Real Numbers.pdb

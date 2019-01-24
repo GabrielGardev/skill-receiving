@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\bin\Debug\netcoreapp2.0\4_Distance Between Points.deps.json
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\bin\Debug\netcoreapp2.0\4_Distance Between Points.runtimeconfig.json
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\bin\Debug\netcoreapp2.0\4_Distance Between Points.runtimeconfig.dev.json
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\bin\Debug\netcoreapp2.0\4_Distance Between Points.dll
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\bin\Debug\netcoreapp2.0\4_Distance Between Points.pdb
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\obj\Debug\netcoreapp2.0\4_Distance Between Points.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\obj\Debug\netcoreapp2.0\4_Distance Between Points.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\obj\Debug\netcoreapp2.0\4_Distance Between Points.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\obj\Debug\netcoreapp2.0\4_Distance Between Points.AssemblyInfo.cs
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\obj\Debug\netcoreapp2.0\4_Distance Between Points.dll
+C:\Users\operator\source\repos\06_Objects and Classes\4_Distance Between Points\obj\Debug\netcoreapp2.0\4_Distance Between Points.pdb

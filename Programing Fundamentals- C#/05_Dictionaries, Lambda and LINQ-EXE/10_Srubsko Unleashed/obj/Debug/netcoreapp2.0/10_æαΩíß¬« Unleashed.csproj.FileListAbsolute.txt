@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\bin\Debug\netcoreapp2.0\10_Сръбско Unleashed.deps.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\bin\Debug\netcoreapp2.0\10_Сръбско Unleashed.runtimeconfig.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\bin\Debug\netcoreapp2.0\10_Сръбско Unleashed.runtimeconfig.dev.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\bin\Debug\netcoreapp2.0\10_Сръбско Unleashed.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\bin\Debug\netcoreapp2.0\10_Сръбско Unleashed.pdb
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\obj\Debug\netcoreapp2.0\10_Сръбско Unleashed.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\obj\Debug\netcoreapp2.0\10_Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\obj\Debug\netcoreapp2.0\10_Сръбско Unleashed.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\obj\Debug\netcoreapp2.0\10_Сръбско Unleashed.AssemblyInfo.cs
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\obj\Debug\netcoreapp2.0\10_Сръбско Unleashed.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\10_Сръбско Unleashed\obj\Debug\netcoreapp2.0\10_Сръбско Unleashed.pdb

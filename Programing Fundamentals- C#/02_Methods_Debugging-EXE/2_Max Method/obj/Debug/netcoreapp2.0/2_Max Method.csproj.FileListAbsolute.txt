@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\bin\Debug\netcoreapp2.0\2_Max Method.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\bin\Debug\netcoreapp2.0\2_Max Method.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\bin\Debug\netcoreapp2.0\2_Max Method.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\bin\Debug\netcoreapp2.0\2_Max Method.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\bin\Debug\netcoreapp2.0\2_Max Method.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\obj\Debug\netcoreapp2.0\2_Max Method.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\obj\Debug\netcoreapp2.0\2_Max Method.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\obj\Debug\netcoreapp2.0\2_Max Method.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\obj\Debug\netcoreapp2.0\2_Max Method.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\obj\Debug\netcoreapp2.0\2_Max Method.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\2_Max Method\obj\Debug\netcoreapp2.0\2_Max Method.pdb

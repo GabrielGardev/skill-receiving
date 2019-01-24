@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\bin\Debug\netcoreapp2.0\8_Letters Change Numbers.deps.json
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\bin\Debug\netcoreapp2.0\8_Letters Change Numbers.runtimeconfig.json
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\bin\Debug\netcoreapp2.0\8_Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\bin\Debug\netcoreapp2.0\8_Letters Change Numbers.dll
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\bin\Debug\netcoreapp2.0\8_Letters Change Numbers.pdb
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\obj\Debug\netcoreapp2.0\8_Letters Change Numbers.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\obj\Debug\netcoreapp2.0\8_Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\obj\Debug\netcoreapp2.0\8_Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\obj\Debug\netcoreapp2.0\8_Letters Change Numbers.AssemblyInfo.cs
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\obj\Debug\netcoreapp2.0\8_Letters Change Numbers.dll
+C:\Users\operator\source\repos\07_Strings and Text Processing-EXE\8_Letters Change Numbers\obj\Debug\netcoreapp2.0\8_Letters Change Numbers.pdb

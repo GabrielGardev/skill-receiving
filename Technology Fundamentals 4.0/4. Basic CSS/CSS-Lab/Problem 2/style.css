@@ -1,0 +1,46 @@
+div {
+    display: inline-block;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+#green {
+    background: green;
+    padding: 20px;
+    border: solid thick yellow;
+    margin: 20px;
+}
+
+#blue { 
+    background: blue;
+    padding: 20px;
+    border: solid thick yellow;
+    margin: 20px;
+
+}
+
+#red { 
+    background: red;
+    padding: 20px;
+    border: solid thick yellow;
+    margin: 20px;
+
+}
+
+#purple { 
+    background: purple;
+    padding: 20px;
+    border: solid thick yellow;
+    margin: 20px;
+
+}
+
+#orange { 
+    background: orange;
+    padding: 20px;
+    border: solid thick yellow;
+    margin: 20px;
+
+}

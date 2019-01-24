@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\bin\Debug\netcoreapp2.0\1_Centuries_to_Minutes.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\bin\Debug\netcoreapp2.0\1_Centuries_to_Minutes.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\bin\Debug\netcoreapp2.0\1_Centuries_to_Minutes.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\bin\Debug\netcoreapp2.0\1_Centuries_to_Minutes.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\bin\Debug\netcoreapp2.0\1_Centuries_to_Minutes.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\obj\Debug\netcoreapp2.0\1_Centuries_to_Minutes.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\obj\Debug\netcoreapp2.0\1_Centuries_to_Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\obj\Debug\netcoreapp2.0\1_Centuries_to_Minutes.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\obj\Debug\netcoreapp2.0\1_Centuries_to_Minutes.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\obj\Debug\netcoreapp2.0\1_Centuries_to_Minutes.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\01_Data_Types_and_Variables-LAB\01_Data_Types_and_Variables-LAB\obj\Debug\netcoreapp2.0\1_Centuries_to_Minutes.pdb

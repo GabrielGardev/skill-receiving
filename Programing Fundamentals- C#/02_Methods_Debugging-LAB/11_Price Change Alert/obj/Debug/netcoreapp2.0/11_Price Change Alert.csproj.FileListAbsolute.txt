@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\bin\Debug\netcoreapp2.0\11_Price Change Alert.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\bin\Debug\netcoreapp2.0\11_Price Change Alert.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\bin\Debug\netcoreapp2.0\11_Price Change Alert.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\bin\Debug\netcoreapp2.0\11_Price Change Alert.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\bin\Debug\netcoreapp2.0\11_Price Change Alert.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\obj\Debug\netcoreapp2.0\11_Price Change Alert.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\obj\Debug\netcoreapp2.0\11_Price Change Alert.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\obj\Debug\netcoreapp2.0\11_Price Change Alert.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\obj\Debug\netcoreapp2.0\11_Price Change Alert.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\obj\Debug\netcoreapp2.0\11_Price Change Alert.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\11_Price Change Alert\obj\Debug\netcoreapp2.0\11_Price Change Alert.pdb

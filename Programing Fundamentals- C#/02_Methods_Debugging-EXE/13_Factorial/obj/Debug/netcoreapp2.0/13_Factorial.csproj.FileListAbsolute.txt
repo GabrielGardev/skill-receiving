@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\bin\Debug\netcoreapp2.0\13_Factorial.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\bin\Debug\netcoreapp2.0\13_Factorial.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\bin\Debug\netcoreapp2.0\13_Factorial.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\bin\Debug\netcoreapp2.0\13_Factorial.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\bin\Debug\netcoreapp2.0\13_Factorial.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\obj\Debug\netcoreapp2.0\13_Factorial.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\obj\Debug\netcoreapp2.0\13_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\obj\Debug\netcoreapp2.0\13_Factorial.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\obj\Debug\netcoreapp2.0\13_Factorial.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\obj\Debug\netcoreapp2.0\13_Factorial.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\13_Factorial\obj\Debug\netcoreapp2.0\13_Factorial.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\bin\Debug\netcoreapp2.0\6_Valid Usernames.deps.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\bin\Debug\netcoreapp2.0\6_Valid Usernames.runtimeconfig.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\bin\Debug\netcoreapp2.0\6_Valid Usernames.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\bin\Debug\netcoreapp2.0\6_Valid Usernames.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\bin\Debug\netcoreapp2.0\6_Valid Usernames.pdb
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\obj\Debug\netcoreapp2.0\6_Valid Usernames.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\obj\Debug\netcoreapp2.0\6_Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\obj\Debug\netcoreapp2.0\6_Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\obj\Debug\netcoreapp2.0\6_Valid Usernames.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\obj\Debug\netcoreapp2.0\6_Valid Usernames.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\6_Valid Usernames\obj\Debug\netcoreapp2.0\6_Valid Usernames.pdb

@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.deps.json
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.dll
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\bin\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.pdb
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.dll
+C:\Users\operator\source\repos\03_Arrays-LAB\9_Extract Middle 1, 2 or 3 Elements\obj\Debug\netcoreapp2.0\9_Extract Middle 1, 2 or 3 Elements.pdb

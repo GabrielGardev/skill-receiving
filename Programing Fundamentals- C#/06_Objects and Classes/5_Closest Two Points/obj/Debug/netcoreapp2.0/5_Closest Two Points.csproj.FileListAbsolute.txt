@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\bin\Debug\netcoreapp2.0\5_Closest Two Points.deps.json
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\bin\Debug\netcoreapp2.0\5_Closest Two Points.runtimeconfig.json
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\bin\Debug\netcoreapp2.0\5_Closest Two Points.runtimeconfig.dev.json
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\bin\Debug\netcoreapp2.0\5_Closest Two Points.dll
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\bin\Debug\netcoreapp2.0\5_Closest Two Points.pdb
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\obj\Debug\netcoreapp2.0\5_Closest Two Points.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\obj\Debug\netcoreapp2.0\5_Closest Two Points.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\obj\Debug\netcoreapp2.0\5_Closest Two Points.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\obj\Debug\netcoreapp2.0\5_Closest Two Points.AssemblyInfo.cs
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\obj\Debug\netcoreapp2.0\5_Closest Two Points.dll
+C:\Users\operator\source\repos\06_Objects and Classes\5_Closest Two Points\obj\Debug\netcoreapp2.0\5_Closest Two Points.pdb

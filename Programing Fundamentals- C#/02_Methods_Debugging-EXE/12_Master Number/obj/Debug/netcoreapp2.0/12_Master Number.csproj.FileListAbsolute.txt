@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\bin\Debug\netcoreapp2.0\12_Master Number.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\bin\Debug\netcoreapp2.0\12_Master Number.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\bin\Debug\netcoreapp2.0\12_Master Number.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\bin\Debug\netcoreapp2.0\12_Master Number.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\bin\Debug\netcoreapp2.0\12_Master Number.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\obj\Debug\netcoreapp2.0\12_Master Number.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\obj\Debug\netcoreapp2.0\12_Master Number.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\obj\Debug\netcoreapp2.0\12_Master Number.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\obj\Debug\netcoreapp2.0\12_Master Number.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\12_Master Number\obj\Debug\netcoreapp2.0\12_Master Number.pdb

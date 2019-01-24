@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\bin\Debug\netcoreapp2.0\7_Sum Arrays.deps.json
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\bin\Debug\netcoreapp2.0\7_Sum Arrays.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\bin\Debug\netcoreapp2.0\7_Sum Arrays.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\bin\Debug\netcoreapp2.0\7_Sum Arrays.dll
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\bin\Debug\netcoreapp2.0\7_Sum Arrays.pdb
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\obj\Debug\netcoreapp2.0\7_Sum Arrays.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\obj\Debug\netcoreapp2.0\7_Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\obj\Debug\netcoreapp2.0\7_Sum Arrays.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\obj\Debug\netcoreapp2.0\7_Sum Arrays.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\obj\Debug\netcoreapp2.0\7_Sum Arrays.dll
+C:\Users\operator\source\repos\03_Arrays-LAB\7_Sum Arrays\obj\Debug\netcoreapp2.0\7_Sum Arrays.pdb

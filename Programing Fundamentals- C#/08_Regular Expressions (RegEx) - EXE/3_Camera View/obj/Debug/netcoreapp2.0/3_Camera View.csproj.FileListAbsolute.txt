@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\bin\Debug\netcoreapp2.0\3_Camera View.deps.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\bin\Debug\netcoreapp2.0\3_Camera View.runtimeconfig.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\bin\Debug\netcoreapp2.0\3_Camera View.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\bin\Debug\netcoreapp2.0\3_Camera View.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\bin\Debug\netcoreapp2.0\3_Camera View.pdb
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\obj\Debug\netcoreapp2.0\3_Camera View.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\obj\Debug\netcoreapp2.0\3_Camera View.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\obj\Debug\netcoreapp2.0\3_Camera View.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\obj\Debug\netcoreapp2.0\3_Camera View.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\obj\Debug\netcoreapp2.0\3_Camera View.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\3_Camera View\obj\Debug\netcoreapp2.0\3_Camera View.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.deps.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.runtimeconfig.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.runtimeconfig.dev.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\bin\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.pdb
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.AssemblyInfo.cs
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ\3_Sum, Min, Max, Average\obj\Debug\netcoreapp2.0\3_Sum, Min, Max, Average.pdb

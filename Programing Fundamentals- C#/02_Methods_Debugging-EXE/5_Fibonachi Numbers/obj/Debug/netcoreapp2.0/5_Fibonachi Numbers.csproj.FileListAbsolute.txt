@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\bin\Debug\netcoreapp2.0\5_Fibonachi Numbers.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\bin\Debug\netcoreapp2.0\5_Fibonachi Numbers.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\bin\Debug\netcoreapp2.0\5_Fibonachi Numbers.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\bin\Debug\netcoreapp2.0\5_Fibonachi Numbers.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\bin\Debug\netcoreapp2.0\5_Fibonachi Numbers.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\obj\Debug\netcoreapp2.0\5_Fibonachi Numbers.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\obj\Debug\netcoreapp2.0\5_Fibonachi Numbers.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\obj\Debug\netcoreapp2.0\5_Fibonachi Numbers.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\obj\Debug\netcoreapp2.0\5_Fibonachi Numbers.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\5_Fibonachi Numbers\obj\Debug\netcoreapp2.0\5_Fibonachi Numbers.pdb

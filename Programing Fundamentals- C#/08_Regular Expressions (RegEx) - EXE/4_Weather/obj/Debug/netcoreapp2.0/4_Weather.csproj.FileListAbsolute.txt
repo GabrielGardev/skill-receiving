@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\bin\Debug\netcoreapp2.0\4_Weather.deps.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\bin\Debug\netcoreapp2.0\4_Weather.runtimeconfig.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\bin\Debug\netcoreapp2.0\4_Weather.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\bin\Debug\netcoreapp2.0\4_Weather.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\bin\Debug\netcoreapp2.0\4_Weather.pdb
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\obj\Debug\netcoreapp2.0\4_Weather.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\obj\Debug\netcoreapp2.0\4_Weather.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\obj\Debug\netcoreapp2.0\4_Weather.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\obj\Debug\netcoreapp2.0\4_Weather.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\obj\Debug\netcoreapp2.0\4_Weather.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\4_Weather\obj\Debug\netcoreapp2.0\4_Weather.pdb

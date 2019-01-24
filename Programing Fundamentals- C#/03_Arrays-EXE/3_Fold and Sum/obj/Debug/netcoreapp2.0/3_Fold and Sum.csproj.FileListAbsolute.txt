@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\bin\Debug\netcoreapp2.0\3_Fold and Sum.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\bin\Debug\netcoreapp2.0\3_Fold and Sum.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\bin\Debug\netcoreapp2.0\3_Fold and Sum.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\bin\Debug\netcoreapp2.0\3_Fold and Sum.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\bin\Debug\netcoreapp2.0\3_Fold and Sum.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\obj\Debug\netcoreapp2.0\3_Fold and Sum.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\obj\Debug\netcoreapp2.0\3_Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\obj\Debug\netcoreapp2.0\3_Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\obj\Debug\netcoreapp2.0\3_Fold and Sum.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\obj\Debug\netcoreapp2.0\3_Fold and Sum.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\03_Arrays-EXE\03_Arrays-EXE\obj\Debug\netcoreapp2.0\3_Fold and Sum.pdb

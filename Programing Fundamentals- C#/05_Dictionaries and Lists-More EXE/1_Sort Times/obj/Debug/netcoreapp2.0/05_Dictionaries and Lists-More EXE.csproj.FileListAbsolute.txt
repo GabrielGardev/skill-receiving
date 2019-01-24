@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.deps.json
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.runtimeconfig.json
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.runtimeconfig.dev.json
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.dll
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\bin\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.pdb
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.AssemblyInfo.cs
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.dll
+C:\Users\operator\source\repos\05_Dictionaries and Lists-More EXE\05_Dictionaries and Lists-More EXE\obj\Debug\netcoreapp2.0\05_Dictionaries and Lists-More EXE.pdb

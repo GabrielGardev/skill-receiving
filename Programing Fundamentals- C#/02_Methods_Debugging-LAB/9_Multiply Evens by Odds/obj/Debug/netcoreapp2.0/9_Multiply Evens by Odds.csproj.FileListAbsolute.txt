@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\bin\Debug\netcoreapp2.0\9_Multiply Evens by Odds.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\bin\Debug\netcoreapp2.0\9_Multiply Evens by Odds.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\bin\Debug\netcoreapp2.0\9_Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\bin\Debug\netcoreapp2.0\9_Multiply Evens by Odds.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\bin\Debug\netcoreapp2.0\9_Multiply Evens by Odds.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\obj\Debug\netcoreapp2.0\9_Multiply Evens by Odds.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\obj\Debug\netcoreapp2.0\9_Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\obj\Debug\netcoreapp2.0\9_Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\obj\Debug\netcoreapp2.0\9_Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\obj\Debug\netcoreapp2.0\9_Multiply Evens by Odds.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\9_Multiply Evens by Odds\obj\Debug\netcoreapp2.0\9_Multiply Evens by Odds.pdb

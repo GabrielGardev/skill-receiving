@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\bin\Debug\netcoreapp2.0\2_Rotate and Sum.deps.json
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\bin\Debug\netcoreapp2.0\2_Rotate and Sum.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\bin\Debug\netcoreapp2.0\2_Rotate and Sum.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\bin\Debug\netcoreapp2.0\2_Rotate and Sum.dll
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\bin\Debug\netcoreapp2.0\2_Rotate and Sum.pdb
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\obj\Debug\netcoreapp2.0\2_Rotate and Sum.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\obj\Debug\netcoreapp2.0\2_Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\obj\Debug\netcoreapp2.0\2_Rotate and Sum.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\obj\Debug\netcoreapp2.0\2_Rotate and Sum.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\obj\Debug\netcoreapp2.0\2_Rotate and Sum.dll
+C:\Users\operator\source\repos\03_Arrays_EXE\2_Rotate and Sum\obj\Debug\netcoreapp2.0\2_Rotate and Sum.pdb

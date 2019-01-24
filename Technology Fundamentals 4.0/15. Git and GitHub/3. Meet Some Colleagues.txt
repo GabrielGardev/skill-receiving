@@ -1,0 +1,4 @@
+Name: Ivailo Nikolov
+City: Zlatograd
+Hobbies: He likes to hurt himself with java and C#
+Why did they pick SoftUni? - to become a jedi master

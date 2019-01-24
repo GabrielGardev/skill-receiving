@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\bin\Debug\netcoreapp2.0\2_Append Lists.deps.json
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\bin\Debug\netcoreapp2.0\2_Append Lists.runtimeconfig.json
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\bin\Debug\netcoreapp2.0\2_Append Lists.runtimeconfig.dev.json
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\bin\Debug\netcoreapp2.0\2_Append Lists.dll
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\bin\Debug\netcoreapp2.0\2_Append Lists.pdb
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\obj\Debug\netcoreapp2.0\2_Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\obj\Debug\netcoreapp2.0\2_Append Lists.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\obj\Debug\netcoreapp2.0\2_Append Lists.AssemblyInfo.cs
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\obj\Debug\netcoreapp2.0\2_Append Lists.dll
+C:\Users\operator\source\repos\04_Lists\2_Append Lists\obj\Debug\netcoreapp2.0\2_Append Lists.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\bin\Debug\netcoreapp2.0\1_Count Working Days.deps.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\bin\Debug\netcoreapp2.0\1_Count Working Days.runtimeconfig.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\bin\Debug\netcoreapp2.0\1_Count Working Days.runtimeconfig.dev.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\bin\Debug\netcoreapp2.0\1_Count Working Days.dll
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\bin\Debug\netcoreapp2.0\1_Count Working Days.pdb
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\obj\Debug\netcoreapp2.0\1_Count Working Days.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\obj\Debug\netcoreapp2.0\1_Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\obj\Debug\netcoreapp2.0\1_Count Working Days.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\obj\Debug\netcoreapp2.0\1_Count Working Days.AssemblyInfo.cs
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\obj\Debug\netcoreapp2.0\1_Count Working Days.dll
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\06_Objects and Classes-EXE\obj\Debug\netcoreapp2.0\1_Count Working Days.pdb

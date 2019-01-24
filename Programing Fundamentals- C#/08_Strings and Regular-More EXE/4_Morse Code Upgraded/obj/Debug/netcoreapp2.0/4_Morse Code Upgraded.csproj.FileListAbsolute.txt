@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\bin\Debug\netcoreapp2.0\4_Morse Code Upgraded.deps.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\bin\Debug\netcoreapp2.0\4_Morse Code Upgraded.runtimeconfig.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\bin\Debug\netcoreapp2.0\4_Morse Code Upgraded.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\bin\Debug\netcoreapp2.0\4_Morse Code Upgraded.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\bin\Debug\netcoreapp2.0\4_Morse Code Upgraded.pdb
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\obj\Debug\netcoreapp2.0\4_Morse Code Upgraded.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\obj\Debug\netcoreapp2.0\4_Morse Code Upgraded.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\obj\Debug\netcoreapp2.0\4_Morse Code Upgraded.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\obj\Debug\netcoreapp2.0\4_Morse Code Upgraded.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\obj\Debug\netcoreapp2.0\4_Morse Code Upgraded.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\4_Morse Code Upgraded\obj\Debug\netcoreapp2.0\4_Morse Code Upgraded.pdb

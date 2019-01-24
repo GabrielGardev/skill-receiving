@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\bin\Debug\netcoreapp2.0\5_Pizza Ingredients.deps.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\bin\Debug\netcoreapp2.0\5_Pizza Ingredients.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\bin\Debug\netcoreapp2.0\5_Pizza Ingredients.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\bin\Debug\netcoreapp2.0\5_Pizza Ingredients.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\bin\Debug\netcoreapp2.0\5_Pizza Ingredients.pdb
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\obj\Debug\netcoreapp2.0\5_Pizza Ingredients.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\obj\Debug\netcoreapp2.0\5_Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\obj\Debug\netcoreapp2.0\5_Pizza Ingredients.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\obj\Debug\netcoreapp2.0\5_Pizza Ingredients.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\obj\Debug\netcoreapp2.0\5_Pizza Ingredients.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\5_Pizza Ingredients\obj\Debug\netcoreapp2.0\5_Pizza Ingredients.pdb

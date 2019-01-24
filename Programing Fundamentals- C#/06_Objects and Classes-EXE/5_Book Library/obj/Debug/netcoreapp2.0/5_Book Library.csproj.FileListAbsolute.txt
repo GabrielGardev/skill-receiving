@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\bin\Debug\netcoreapp2.0\5_Book Library.deps.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\bin\Debug\netcoreapp2.0\5_Book Library.runtimeconfig.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\bin\Debug\netcoreapp2.0\5_Book Library.runtimeconfig.dev.json
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\bin\Debug\netcoreapp2.0\5_Book Library.dll
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\bin\Debug\netcoreapp2.0\5_Book Library.pdb
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\obj\Debug\netcoreapp2.0\5_Book Library.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\obj\Debug\netcoreapp2.0\5_Book Library.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\obj\Debug\netcoreapp2.0\5_Book Library.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\obj\Debug\netcoreapp2.0\5_Book Library.AssemblyInfo.cs
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\obj\Debug\netcoreapp2.0\5_Book Library.dll
+C:\Users\operator\source\repos\06_Objects and Classes-EXE\5_Book Library\obj\Debug\netcoreapp2.0\5_Book Library.pdb

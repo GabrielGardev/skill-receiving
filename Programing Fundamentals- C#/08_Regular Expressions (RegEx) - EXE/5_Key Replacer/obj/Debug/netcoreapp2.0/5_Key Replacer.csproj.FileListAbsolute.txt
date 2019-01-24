@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\bin\Debug\netcoreapp2.0\5_Key Replacer.deps.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\bin\Debug\netcoreapp2.0\5_Key Replacer.runtimeconfig.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\bin\Debug\netcoreapp2.0\5_Key Replacer.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\bin\Debug\netcoreapp2.0\5_Key Replacer.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\bin\Debug\netcoreapp2.0\5_Key Replacer.pdb
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\obj\Debug\netcoreapp2.0\5_Key Replacer.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\obj\Debug\netcoreapp2.0\5_Key Replacer.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\obj\Debug\netcoreapp2.0\5_Key Replacer.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\obj\Debug\netcoreapp2.0\5_Key Replacer.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\obj\Debug\netcoreapp2.0\5_Key Replacer.dll
+C:\Users\operator\source\repos\08_Regular Expressions (RegEx) - EXE\5_Key Replacer\obj\Debug\netcoreapp2.0\5_Key Replacer.pdb

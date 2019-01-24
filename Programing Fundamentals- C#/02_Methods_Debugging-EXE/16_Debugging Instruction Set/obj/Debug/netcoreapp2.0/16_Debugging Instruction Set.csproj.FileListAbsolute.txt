@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\bin\Debug\netcoreapp2.0\16_Debugging Instruction Set.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\bin\Debug\netcoreapp2.0\16_Debugging Instruction Set.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\bin\Debug\netcoreapp2.0\16_Debugging Instruction Set.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\bin\Debug\netcoreapp2.0\16_Debugging Instruction Set.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\bin\Debug\netcoreapp2.0\16_Debugging Instruction Set.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\obj\Debug\netcoreapp2.0\16_Debugging Instruction Set.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\obj\Debug\netcoreapp2.0\16_Debugging Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\obj\Debug\netcoreapp2.0\16_Debugging Instruction Set.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\obj\Debug\netcoreapp2.0\16_Debugging Instruction Set.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\obj\Debug\netcoreapp2.0\16_Debugging Instruction Set.dll
+C:\Users\operator\source\repos\02_Methods_Debugging-EXE\16_Debugging Instruction Set\obj\Debug\netcoreapp2.0\16_Debugging Instruction Set.pdb

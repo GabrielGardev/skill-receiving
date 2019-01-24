@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\bin\Debug\netcoreapp2.0\7_Math Power.deps.json
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\bin\Debug\netcoreapp2.0\7_Math Power.runtimeconfig.json
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\bin\Debug\netcoreapp2.0\7_Math Power.runtimeconfig.dev.json
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\bin\Debug\netcoreapp2.0\7_Math Power.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\bin\Debug\netcoreapp2.0\7_Math Power.pdb
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\obj\Debug\netcoreapp2.0\7_Math Power.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\obj\Debug\netcoreapp2.0\7_Math Power.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\obj\Debug\netcoreapp2.0\7_Math Power.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\obj\Debug\netcoreapp2.0\7_Math Power.AssemblyInfo.cs
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\obj\Debug\netcoreapp2.0\7_Math Power.dll
+C:\Users\operator\source\repos\02_Methods_Debugging\7_Math Power\obj\Debug\netcoreapp2.0\7_Math Power.pdb

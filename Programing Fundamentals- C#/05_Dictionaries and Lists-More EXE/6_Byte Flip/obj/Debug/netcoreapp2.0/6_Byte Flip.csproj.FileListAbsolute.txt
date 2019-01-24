@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\bin\Debug\netcoreapp2.0\6_Byte Flip.deps.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\bin\Debug\netcoreapp2.0\6_Byte Flip.runtimeconfig.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\bin\Debug\netcoreapp2.0\6_Byte Flip.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\bin\Debug\netcoreapp2.0\6_Byte Flip.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\bin\Debug\netcoreapp2.0\6_Byte Flip.pdb
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\obj\Debug\netcoreapp2.0\6_Byte Flip.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\obj\Debug\netcoreapp2.0\6_Byte Flip.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\obj\Debug\netcoreapp2.0\6_Byte Flip.AssemblyInfo.cs
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\obj\Debug\netcoreapp2.0\6_Byte Flip.dll
+C:\Users\Freeware Sys\Projects\Programing Fundamentions\05_Dictionaries and Lists-More EXE\6_Byte Flip\obj\Debug\netcoreapp2.0\6_Byte Flip.pdb

@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\bin\Debug\netcoreapp2.0\2_Manipulate Array.deps.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\bin\Debug\netcoreapp2.0\2_Manipulate Array.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\bin\Debug\netcoreapp2.0\2_Manipulate Array.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\bin\Debug\netcoreapp2.0\2_Manipulate Array.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\bin\Debug\netcoreapp2.0\2_Manipulate Array.pdb
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\obj\Debug\netcoreapp2.0\2_Manipulate Array.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\obj\Debug\netcoreapp2.0\2_Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\obj\Debug\netcoreapp2.0\2_Manipulate Array.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\obj\Debug\netcoreapp2.0\2_Manipulate Array.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\obj\Debug\netcoreapp2.0\2_Manipulate Array.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\2_Manipulate Array\obj\Debug\netcoreapp2.0\2_Manipulate Array.pdb

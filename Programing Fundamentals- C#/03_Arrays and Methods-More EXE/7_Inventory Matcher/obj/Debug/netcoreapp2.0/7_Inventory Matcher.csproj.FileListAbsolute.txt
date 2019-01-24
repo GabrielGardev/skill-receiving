@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\bin\Debug\netcoreapp2.0\7_Inventory Matcher.deps.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\bin\Debug\netcoreapp2.0\7_Inventory Matcher.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\bin\Debug\netcoreapp2.0\7_Inventory Matcher.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\bin\Debug\netcoreapp2.0\7_Inventory Matcher.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\bin\Debug\netcoreapp2.0\7_Inventory Matcher.pdb
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\obj\Debug\netcoreapp2.0\7_Inventory Matcher.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\obj\Debug\netcoreapp2.0\7_Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\obj\Debug\netcoreapp2.0\7_Inventory Matcher.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\obj\Debug\netcoreapp2.0\7_Inventory Matcher.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\obj\Debug\netcoreapp2.0\7_Inventory Matcher.dll
+C:\Users\operator\source\repos\03_Arrays and Methods-More EXE\7_Inventory Matcher\obj\Debug\netcoreapp2.0\7_Inventory Matcher.pdb

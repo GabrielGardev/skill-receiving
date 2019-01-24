@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\bin\Debug\netcoreapp2.0\1_Phonebook.deps.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\bin\Debug\netcoreapp2.0\1_Phonebook.runtimeconfig.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\bin\Debug\netcoreapp2.0\1_Phonebook.runtimeconfig.dev.json
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\bin\Debug\netcoreapp2.0\1_Phonebook.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\bin\Debug\netcoreapp2.0\1_Phonebook.pdb
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\obj\Debug\netcoreapp2.0\1_Phonebook.csprojAssemblyReference.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\obj\Debug\netcoreapp2.0\1_Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\obj\Debug\netcoreapp2.0\1_Phonebook.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\obj\Debug\netcoreapp2.0\1_Phonebook.AssemblyInfo.cs
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\obj\Debug\netcoreapp2.0\1_Phonebook.dll
+C:\Users\operator\source\repos\05_Dictionaries, Lambda and LINQ-EXE\05_Dictionaries, Lambda and LINQ-EXE\obj\Debug\netcoreapp2.0\1_Phonebook.pdb

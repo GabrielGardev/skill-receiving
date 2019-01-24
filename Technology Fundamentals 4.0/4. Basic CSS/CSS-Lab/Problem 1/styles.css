@@ -1,0 +1,24 @@
+div{
+    display: inline-block;
+    width: 30%;
+    margin-left:2%;
+    vertical-align: top;
+}
+
+span{
+    font-weight: bold;
+    border: dotted darkcyan;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    color: darkviolet;
+}
+
+li {
+    border: solid yellow;
+}

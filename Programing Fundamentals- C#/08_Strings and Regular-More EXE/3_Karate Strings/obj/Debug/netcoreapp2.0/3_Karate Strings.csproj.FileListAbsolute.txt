@@ -1,0 +1,11 @@
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\bin\Debug\netcoreapp2.0\3_Karate Strings.deps.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\bin\Debug\netcoreapp2.0\3_Karate Strings.runtimeconfig.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\bin\Debug\netcoreapp2.0\3_Karate Strings.runtimeconfig.dev.json
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\bin\Debug\netcoreapp2.0\3_Karate Strings.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\bin\Debug\netcoreapp2.0\3_Karate Strings.pdb
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\obj\Debug\netcoreapp2.0\3_Karate Strings.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\obj\Debug\netcoreapp2.0\3_Karate Strings.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\obj\Debug\netcoreapp2.0\3_Karate Strings.AssemblyInfo.cs
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\obj\Debug\netcoreapp2.0\3_Karate Strings.dll
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\obj\Debug\netcoreapp2.0\3_Karate Strings.pdb
+C:\Users\operator\source\repos\08_Strings and Regular Expressions - More EXE\3_Karate Strings\obj\Debug\netcoreapp2.0\3_Karate Strings.csprojAssemblyReference.cache

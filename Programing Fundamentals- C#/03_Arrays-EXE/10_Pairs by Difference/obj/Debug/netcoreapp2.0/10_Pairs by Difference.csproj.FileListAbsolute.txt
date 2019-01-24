@@ -1,0 +1,10 @@
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\bin\Debug\netcoreapp2.0\10_Pairs by Difference.deps.json
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\bin\Debug\netcoreapp2.0\10_Pairs by Difference.runtimeconfig.json
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\bin\Debug\netcoreapp2.0\10_Pairs by Difference.runtimeconfig.dev.json
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\bin\Debug\netcoreapp2.0\10_Pairs by Difference.dll
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\bin\Debug\netcoreapp2.0\10_Pairs by Difference.pdb
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\obj\Debug\netcoreapp2.0\10_Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\obj\Debug\netcoreapp2.0\10_Pairs by Difference.AssemblyInfoInputs.cache
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\obj\Debug\netcoreapp2.0\10_Pairs by Difference.AssemblyInfo.cs
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\obj\Debug\netcoreapp2.0\10_Pairs by Difference.dll
+C:\Users\operator\source\repos\03_Arrays_EXE\10_Pairs by Difference\obj\Debug\netcoreapp2.0\10_Pairs by Difference.pdb
