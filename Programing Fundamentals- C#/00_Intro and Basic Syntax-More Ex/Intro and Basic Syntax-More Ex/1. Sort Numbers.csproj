@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>Intro_and_Basic_Syntax_More_Ex</RootNamespace>
-  </PropertyGroup>
-
-</Project>
