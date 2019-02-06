@@ -1,2 +1,1 @@
-# tech-module-4.0
-Exercises and exams with Java. Problem solving
+Exercises and exams with Java and C#. Problem solving
