@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Parsley" price="519.06" seller="Betty Ward"/>
+    <product name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12" seller="Sarah Day"/>
+    <product name="Ketorolac Tromethamine" price="608.18" seller="Nicole Martinez"/>
+    <product name="ziprasidone hydrochloride" price="628.66" seller="Betty Lawson"/>
+    <product name="AVANDAMET" price="632.08" seller="Jennifer Riley"/>
+    <product name="Imipramine Hydrochloride" price="648.69" seller="Jonathan Rodriguez"/>
+    <product name="Strattera" price="658.54" seller="Joshua Murray"/>
+    <product name="ENBREL" price="673.97" seller="Chris Mitchell"/>
+    <product name="Ampicillin" price="674.63" seller="Betty Lawson"/>
+    <product name="Prostate" price="716.05" seller="Sarah Day"/>
+    <product name="Naproxen" price="807.22" seller="Jean Henry"/>
+    <product name="Meloxicam" price="809.18" seller="Rachel Johnson"/>
+    <product name="Clarins Paris Skin Illusion - 114 cappuccino" price="811.42" seller="Gary Stevens"/>
+    <product name="LV-FX" price="820.87" seller="Nicole Harris"/>
+    <product name="IOPE SUPER VITAL" price="824.68" seller="Jennifer Riley"/>
+    <product name="RESCRIPTOR" price="850.52" seller="Peterson"/>
+    <product name="Perrigo Benzoyl Peroxide" price="873.24" seller="Jean Henry"/>
+    <product name="ESIKA" price="879.37" seller="Billy Parker"/>
+    <product name="Aspirin" price="925.45" seller="Emily Parker"/>
+    <product name="Ranitidine" price="926.64" seller="Fox"/>
+    <product name="Glipizide and Metformin Hydrochloride" price="953.60" seller="Bonnie Fox"/>
+    <product name="Megestrol Acetate" price="976.15" seller="Thompson"/>
+    <product name="Retin-A MICRO" price="995.98" seller="Jonathan Rodriguez"/>
+</products>
