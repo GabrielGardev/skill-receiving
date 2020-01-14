@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+<ui:composition template="templates/base-layout.xhtml">
+    <ui:define name="main-content">
+        <main>
+            <h1 class="text-center mt-2">Create Hero</h1>
+            <hr class="hr-3"/>
+            <h:form class="mx-auto w-15">
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <h:outputLabel for="heroName" class="h4 mb-2" value="Hero Name"/>
+                    </div>
+                    <h:inputText type="text" class="form-control" id="heroName" value="#{heroCreateBean.heroCreateBindingModel.name}"/>
+                </div>
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <h:outputLabel for="heroClass" class="h4 mb-2" value="Hero Class"/>
+                    </div>
+                    <h:selectOneMenu style="margin-left: 30%; width: 100px;" id="heroClass" value="#{heroCreateBean.heroCreateBindingModel.heroClass}">
+                        <f:selectItem itemValue="Warrior" itemLabel ="Warrior"/>
+                        <f:selectItem itemValue="Archer" itemLabel ="Archer"/>
+                        <f:selectItem itemValue="Mage" itemLabel ="Mage"/>
+                    </h:selectOneMenu>
+                </div>
+                <div class="form-group">
+                    <div class="label-holder d-flex justify-content-center">
+                        <h:outputLabel for="level" class="h4 mb-2" value="Level"/>
+                    </div>
+                    <h:inputText type="number" class="form-control" id="level" value="#{heroCreateBean.heroCreateBindingModel.level}"/>
+                </div>
+                <div class="button-holder d-flex justify-content-center">
+                    <h:commandButton type="submit" class="btn btn-info text-white" value="Create Hero" action="#{heroCreateBean.create}"/>
+                </div>
+            </h:form>
+        </main>
+    </ui:define>
+</ui:composition>
+</html>

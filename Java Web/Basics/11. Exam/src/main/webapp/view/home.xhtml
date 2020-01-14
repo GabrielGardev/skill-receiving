@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:f="http://xmlns.jcp.org/jsf/core" xmlns:c="http://java.sun.com/jsp/jstl/core">
+<ui:composition template="templates/base-layout.xhtml">
+    <ui:define name="main-content">
+        <main>
+            <div class="text-center mb-3">
+                <h4 class="text-info mt-2">Welcome to the arena, #{session.getAttribute('username')}</h4>
+            </div>
+            <hr class="my-3"/>
+            <div class="container">
+                <div class="row mb-4 d-flex justify-content-around">
+                    <c:forEach items="#{homeBean.models}" var="model">
+                        <div class="col-md-4 d-flex flex-column text-center mb-3">
+                            <c:choose>
+                                <c:when test="#{model.heroClass == 'Warrior'}">
+                                    <h:graphicImage library="hero-lib" name="img/warrior.jpg"
+                                                    class="img-thumb" width="300" height="300"/>
+                                    <h5 class="text-center">#{model.name}</h5>
+                                    <h:link class="btn btn-info mb-2" outcome="details-hero?id=#{model.id}" value="Details"/>
+                                    <h:link class="btn btn-danger" outcome="delete-hero?id=#{model.id}" value="Delete"/>
+                                </c:when>
+                                <c:when test="#{model.heroClass == 'Archer'}">
+                                    <h:graphicImage library="hero-lib" name="img/archer.jpg"
+                                                    class="img-thumb" width="300" height="300"/>
+                                    <h5 class="text-center">#{model.name}</h5>
+                                    <h:link class="btn btn-info mb-2" outcome="details-hero?id=#{model.id}" value="Details"/>
+                                    <h:link class="btn btn-danger" outcome="delete-hero?id=#{model.id}" value="Delete"/>
+                                </c:when>
+                                <c:when test="#{model.heroClass == 'Mage'}">
+                                    <h:graphicImage library="hero-lib" name="img/mage.jpg"
+                                                    class="img-thumb" width="300" height="300"/>
+                                    <h5 class="text-center">#{model.name}</h5>
+                                    <h:link class="btn btn-info mb-2" outcome="details-hero?id=#{model.id}" value="Details"/>
+                                    <h:link class="btn btn-danger" outcome="delete-hero?id=#{model.id}" value="Delete"/>
+                                </c:when>
+                            </c:choose>
+                        </div>
+                    </c:forEach>
+                </div>
+            </div>
+        </main>
+    </ui:define>
+</ui:composition>
+</html>

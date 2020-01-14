@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html" xmlns:ui="http://java.sun.com/jsf/facelets">
+
+<ui:composition template="templates/base-layout.xhtml">
+    <ui:define name="main-content">
+        <div class="jumbotron justify-content-center jumbotron-background">
+            <div class="row">
+                <div class="col col-md-12 d-flex justify-content-center">
+                    <h1>Create Cat!</h1>
+                </div>
+            </div>
+            <hr class="hr-background"/>
+            <form id="j_id_p" name="j_id_p" method="post" action="cat-create.xhtml"
+                  enctype="application/x-www-form-urlencoded">
+                <div class="row">
+                    <div class="col-md-12  d-flex justify-content-center">
+                        <div class="form-group"><label for="j_id_p:catNameInput">Name</label><input
+                                id="j_id_p:catNameInput" name="j_id_p:catNameInput" type="text" value=""
+                                class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <div class="form-group"><label for="j_id_p:catBreedInput">Breed</label><input
+                                id="j_id_p:catBreedInput" name="j_id_p:catBreedInput" type="text" value=""
+                                class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <div class="form-group"><label for="j_id_p:catColorInput">Color</label><input
+                                id="j_id_p:catColorInput" name="j_id_p:catColorInput" type="text" value=""
+                                class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <div class="form-group"><label for="j_id_p:catAgeInput">Age</label><input
+                                id="j_id_p:catAgeInput" name="j_id_p:catAgeInput" type="text" value=""
+                                class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <div class="form-group"><label for="j_id_p:catPriceInput">Price</label><input
+                                id="j_id_p:catPriceInput" name="j_id_p:catPriceInput" type="text" value=""
+                                class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+                <hr class="hr-background"/>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center"><label class="mr-4"
+                                                                                for="j_id_p:catGenderRadio">Gender</label>
+                        <table id="j_id_p:catGenderRadio">
+                            <tr>
+                                <td><input id="j_id_p:catGenderRadio:0" type="radio" name="j_id_p:catGenderRadio"
+                                           value="male"/><label for="j_id_p:catGenderRadio:0"> Male</label></td>
+                                <td><input id="j_id_p:catGenderRadio:1" type="radio" name="j_id_p:catGenderRadio"
+                                           value="female"/><label for="j_id_p:catGenderRadio:1"> Female</label></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <div class="form-check"><input id="j_id_p:catPassportCheckbox" type="checkbox"
+                                                       name="j_id_p:catPassportCheckbox" value="true"
+                                                       class="form-check-input"/><label class="form-check-label mr-4"
+                                                                                        for="j_id_p:catPassportCheckbox">Has passport</label>
+                        </div>
+                    </div>
+                </div>
+                <hr class="hr-background"/>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <div class="form-group"><label for="j_id_p:catAddedOnInput">Added On</label><span
+                                id="j_id_p:catAddedOnInput" class="ui-calendar form-control"><input
+                                id="j_id_p:catAddedOnInput_input" name="j_id_p:catAddedOnInput_input" type="text"
+                                class="ui-inputfield ui-widget ui-state-default ui-corner-all"/></span>
+                            <script id="j_id_p:catAddedOnInput_s" type="text/javascript">$(function () {
+                                PrimeFaces.cw("Calendar", "widget_j_id_p_catAddedOnInput", {
+                                    id: "j_id_p:catAddedOnInput",
+                                    popup: true,
+                                    locale: "en_US",
+                                    dateFormat: "m\/d\/y"
+                                });
+                            });</script>
+                        </div>
+                    </div>
+                </div>
+                <hr class="hr-background"/>
+                <div class="row">
+                    <div class="col-md-12 d-flex justify-content-center"><input id="j_id_p:j_id_1p"
+                                                                                name="j_id_p:j_id_1p" type="submit"
+                                                                                value="Create cat"
+                                                                                class="btn btn-success"/>
+                    </div>
+                </div>
+                <input type="hidden" name="j_id_p_SUBMIT" value="1"/><input type="hidden" name="javax.faces.ViewState"
+                                                                            id="j_id__v_0:javax.faces.ViewState:1"
+                                                                            value="QUZFNzkwODE2RkY4RURCOTAwMDAwMDAx"
+                                                                            autocomplete="off"/></form>
+        </div>
+    </ui:define>
+</ui:composition>
+
+</html>
