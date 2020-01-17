@@ -1,14 +1,12 @@
 function solve(arr){
-    arr.reduce((acc, curr, i) => {
+    return arr.reduce((acc, curr, i) => {
         let last = acc[acc.length - 1];
-        if (curr > last || last === undefined) {
+        if (curr >= last || last === undefined) {
             acc.push(curr)
         }
 
         return acc;
-    }, [])
-
-    return arr
+    }, []).join('\n')
 }
 
 solve([1, 
