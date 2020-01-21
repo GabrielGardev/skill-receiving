@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>FromJSONToHTMLTable</title>
+    <style>
+        table,
+        th {
+            border: groove;
+            border-collapse: collapse;
+        }
+
+        td {
+            border: 1px solid black;
+        }
+
+        td,
+        th {
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+    </div>
+    <script>
+        function fromJSONToHTMLTable(input) {
+            let specialSymbols = {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '\"': '&quot;',
+                '\'': '&#39;'
+            }
+
+            function formatSpecialSymbols(text) {
+                return text
+                    .split("&").join(specialSymbols["&"])
+                    .split("<").join(specialSymbols["<"])
+                    .split(">").join(specialSymbols[">"])
+                    .split("\"").join(specialSymbols["\""])
+                    .split("\'").join(specialSymbols["'"])
+            }
+
+            function generateTableHeadings(prop) {
+                return prop
+                    .map(x => `<th>${x}</th>`)
+                    .reduce((a, b) => {
+                        a.push(b)
+                        return a;
+                    }, ['   <tr>'])
+                    .join('')
+                    + '</tr>'
+            }
+
+            function generateTableRow(obj) {
+                return Object.keys(obj)
+                    .reduce((a, b) => {
+                        a.push(`<td>${isNaN(obj[b]) ? formatSpecialSymbols(obj[b]) : obj[b]}</td>`)
+                        return a;
+                    }, ['   <tr>'])
+                    .join('')
+                    + '</tr>'
+            }
+
+            let parsedObj = JSON.parse(input)
+            let table = []
+
+            table.push('<table>')
+            table.push(generateTableHeadings(Object.keys(parsedObj[0])))
+            parsedObj
+                .forEach(x => table.push(generateTableRow(x)))
+            table.push('</table>')
+
+            return table.join('\n');
+        }
+        window.onload = function () {
+            let container = document.getElementById('wrapper');
+            container.innerHTML = fromJSONToHTMLTable(['[{"Name":"Pesho <div>-a","Age":20,"City":"Sofia"},{"Name":"Gosho","Age":18,"City":"Plovdiv"},{"Name":"Angel","Age":18,"City":"Veliko Tarnovo"}]']);
+        };
+    </script>
+</body>
+
+</html>
