@@ -1,25 +1,24 @@
-function solve(...args) {
-    let obj = args
-    .reduce((acc, b) => {
-        !acc[typeof b] 
-        ? acc[typeof b] = [typeof b === 'object' ? JSON.stringify(b) : b]
-        : acc[typeof b].push(`${b}`)
-        return acc
-    }, {})
+function solve(...elements) {
+    let countTypes = new Map();
 
-    let str = Object.keys(obj)
-        .forEach(b => {
-                obj[b].forEach(x => console.log(`${b}: ${x}`))
-        })
+    for (const element of elements) {
+        let type = typeof element;
 
-    let str2 = Object.keys(obj)
-            .sort((a, b) => obj[b].length - obj[a].length)
-            .forEach(b => console.log(`${b} = ${obj[b].length}`))
-    
-    return str + str2
+        console.log(`${type}: ${element}`);
+
+        if (!countTypes.has(type)) {
+            countTypes.set(type, 0);
+        }
+
+        countTypes.set(type, countTypes.get(type) + 1);
+    }
+
+    [...countTypes.keys()]
+        .sort((a, b) => countTypes.get(b) - countTypes.get(a))
+        .forEach(type => console.log(`${type} = ${countTypes.get(type)}`));
 }
 
 
-    solve(
-        { name: 'bob'}, 3.333, 9.999
-    )
+solve(
+    42, 'cat', 15, 'kitten', 'tomcat'
+)
