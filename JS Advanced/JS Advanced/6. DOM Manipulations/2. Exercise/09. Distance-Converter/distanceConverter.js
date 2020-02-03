@@ -7,13 +7,11 @@ function attachEventsListeners() {
     function convert() {
         let input = document.getElementById('inputDistance').value;
 
-        if (/[+-]*?[0-9]+(?:\.[0-9]+)?/.test(input)) {
-            let number = Number(input);
-            let inputUnit = document.getElementById('inputUnits').selectedIndex;
-            let outputUnit = document.getElementById('outputUnits').selectedIndex;
+        let number = Number(input);
+        let inputUnit = document.getElementById('inputUnits').selectedIndex;
+        let outputUnit = document.getElementById('outputUnits').selectedIndex;
 
-            let inValue = number * units[inputUnit];
-            document.getElementById('outputDistance').value = inValue / units[outputUnit];
-        }
+        let inValue = number * units[inputUnit];
+        document.getElementById('outputDistance').value = inValue / units[outputUnit];
     }
 }
