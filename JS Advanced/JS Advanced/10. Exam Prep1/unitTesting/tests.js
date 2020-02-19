@@ -1,4 +1,4 @@
-let SkiResort = require('../solution');
+let SkiResort = require('./solution');
 let assert = require('chai').assert;
 
 describe('SkiResort', function () {
@@ -23,7 +23,6 @@ describe('SkiResort', function () {
             ski.build('pesho', 10)
             ski.book('pesho', 6)
             ski.leave('pesho', 6, 7)
-            console.log(ski.bestHotel)
             assert.equal(ski.bestHotel, 'Best hotel is pesho with grade 42. Available beds: 10');
         });
     });
