@@ -1,0 +1,43 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.11.0/firebase-firestore.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyANEzFF8tu05xwFjrXiToRAB_bkQMRzedY",
+            authDomain: "testapp-465f1.firebaseapp.com",
+            databaseURL: "https://testapp-465f1.firebaseio.com",
+            projectId: "testapp-465f1",
+            storageBucket: "testapp-465f1.appspot.com",
+            messagingSenderId: "307809771173",
+            appId: "1:307809771173:web:4fc68e9fe5ff44ca42f74c",
+            measurementId: "G-HBEG05LEGQ"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
+    <script type="module" src="./test.js"></script>
+</body>
+
+</html>
