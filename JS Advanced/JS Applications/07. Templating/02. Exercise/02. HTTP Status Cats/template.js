@@ -17,8 +17,9 @@
             const showStr = 'Show status code';
             const hideStr = 'Hide status code';
 
-            let c = document.getElementById(`${e.target.dataset.id}`);
             e.target.innerText = e.target.innerText === showStr ? hideStr : showStr;
+
+            let c = e.target.parentNode.querySelector('div.status');
             c.style.display = c.style.display === "none" ? "block" : "none";
         }
     })

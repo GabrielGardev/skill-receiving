@@ -14,7 +14,7 @@ import { monkeys } from './monkeys.js';
 
     document.addEventListener('click', (e) => {
         if (e.target.tagName === 'BUTTON') {
-            let c = document.getElementById(`${e.target.dataset.id}`);
+            let c = e.target.parentNode.querySelector('p');
             c.style.display = c.style.display === "none" ? "block" : "none";
         }
     })
