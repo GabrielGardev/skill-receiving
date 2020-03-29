@@ -109,7 +109,9 @@ async function registerHandler() {
 }
 
 async function catalogHandler() {
-    this.teams = Object.entries(await requester.teams.getAll().then(x => x || {})).map(([id, value]) => ({ _id: id, ...value }));
+    this.teams = Object.entries(await requester.teams.getAll()
+        .then(x => x || {}))
+        .map(([id, value]) => ({ _id: id, ...value }));
 
     await applyCommon.call(this);
     this.partials.team = await this.load('./templates/catalog/team.hbs');
@@ -153,7 +155,7 @@ async function catalogueDetailsHandler() {
     this.members = (teamMembers || []).map(member => ({ username: member.name }));
     this.isAuthor = createdBy === sessionStorage.getItem('userId');
     this.isOnTeam = (teamMembers || []).find(x => x.id === sessionStorage.getItem('userId'));
-  
+
 
     await applyCommon.call(this);
     this.partials.teamMember = await this.load('./templates/catalog/teamMember.hbs');
@@ -205,7 +207,7 @@ async function joinTeamHandler() {
         },
         this.params.id
     );
-    
+
     this.redirect(`#/catalog/${this.params.id}`);
 }
 
