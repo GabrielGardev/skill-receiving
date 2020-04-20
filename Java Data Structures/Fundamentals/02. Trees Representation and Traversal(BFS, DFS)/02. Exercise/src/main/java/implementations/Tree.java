@@ -142,7 +142,6 @@ public class Tree<E> implements AbstractTree<E> {
     @Override
     public List<Tree<E>> subTreesWithGivenSum(int sum) {
         List<Tree<E>> subtreeRoots = new ArrayList<>();
-
         getSubtreeRootWithSum(this, sum, subtreeRoots);
 
         return subtreeRoots;
@@ -152,7 +151,6 @@ public class Tree<E> implements AbstractTree<E> {
         if (current == null) {
             return 0;
         }
-
         int currentSum = (int) current.value;
 
         for (Tree<E> child : current.children) {
@@ -162,7 +160,6 @@ public class Tree<E> implements AbstractTree<E> {
         if (currentSum == targetSum) {
             result.add(current);
         }
-
         return currentSum;
     }
 
