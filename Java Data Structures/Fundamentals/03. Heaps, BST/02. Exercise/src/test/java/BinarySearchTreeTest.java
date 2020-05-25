@@ -123,4 +123,39 @@ public class BinarySearchTreeTest {
         bst.deleteMax();
         assertEquals(6, bst.count());
     }
+
+    @Test
+    public void testRank(){
+        assertEquals(4, bst.rank(15));
+    }
+
+    @Test
+    public void testRankMinElement(){
+        assertEquals(0, bst.rank(-1));
+    }
+
+    @Test
+    public void testRankEmptyTree(){
+        assertEquals(0, new BinarySearchTree<Integer>().rank(1));
+    }
+
+    @Test
+    public void testFloor(){
+        assertEquals(Integer.valueOf(13), bst.floor(15));
+    }
+
+    @Test
+    public void testEmptyFloor(){
+        assertNull(bst.floor(-1));
+    }
+
+    @Test
+    public void testCeil(){
+        assertEquals(Integer.valueOf(16), bst.ceil(15));
+    }
+
+    @Test
+    public void testEmptyCeil(){
+        assertNull(bst.ceil(50));
+    }
 }
