@@ -42,7 +42,10 @@ public class MinHeap<E extends Comparable<E> & Decrease<E>> implements Heap<E> {
 
     @Override
     public void decrease(E element) {
-
+        int elementIndex = data.indexOf(element);
+        E elementToDecrease = data.remove(elementIndex);
+        elementToDecrease.decrease();
+        add(elementToDecrease);
     }
 
     private int getSize(){
