@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class P06_8_Queens_Puzzle {
     private static final int N = 8;
     private static final int DIAGONALS_LENGTH = (N * 2) - 1;
@@ -11,7 +13,6 @@ public class P06_8_Queens_Puzzle {
 
     public static void main(String[] args) {
         fillBoard();
-
         placeQueens(0);
     }
 
@@ -37,18 +38,19 @@ public class P06_8_Queens_Puzzle {
 
     private static boolean canPlace(int row, int col) {
         if (attackedColumns[col]){ return false; }
-
-        int leftDiag = col - row;
-        if (leftDiag < 0){
-            leftDiag += DIAGONALS_LENGTH;
-        }
-
-        if (attackedLeftDiagonals[leftDiag]){ return false; }
-
-        int rightDiag = col + row;
-        if (attackedRightDiagonals[rightDiag]){ return false; }
+        if (attackedLeftDiagonals[getLeftDiag(row, col)]){ return false; }
+        if (attackedRightDiagonals[getRightDiag(row, col)]){ return false; }
 
         return true;
+    }
+
+    private static int getRightDiag(int row, int col) {
+        return col + row;
+    }
+
+    private static int getLeftDiag(int row, int col) {
+        int leftDiag = col - row;
+        return leftDiag < 0 ? leftDiag + DIAGONALS_LENGTH : leftDiag;
     }
 
     private static void putQueen(int row, int col) {
@@ -58,15 +60,8 @@ public class P06_8_Queens_Puzzle {
 
     private static void changeAttackedPositions(int row, int col, boolean value) {
         attackedColumns[col] = value;
-
-        int leftDiag = col - row;
-        int rightDiag = col + row;
-
-        if (leftDiag < 0){
-            leftDiag += DIAGONALS_LENGTH;
-        }
-        attackedLeftDiagonals[leftDiag] = value;
-        attackedRightDiagonals[rightDiag] = value;
+        attackedLeftDiagonals[getLeftDiag(row, col)] = value;
+        attackedRightDiagonals[getRightDiag(row, col)] = value;
     }
 
     private static void printBoard() {
@@ -80,10 +75,8 @@ public class P06_8_Queens_Puzzle {
     }
 
     private static void fillBoard() {
-        for (int row = 0; row < N; row++) {
-            for (int col = 0; col < N; col++) {
-                board[row][col] = FREE_POSITION;
-            }
+        for (char[] row : board) {
+            Arrays.fill(row, FREE_POSITION);
         }
     }
 }
