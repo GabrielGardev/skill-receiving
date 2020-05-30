@@ -15,7 +15,6 @@ public class P7_N_Choose_K_Count {
         if (k > n) {return 0;}
         if (k == 0 || k == n) {return 1;}
 
-
         return binom(n - 1, k - 1) + binom(n - 1, k);
     }
 }
