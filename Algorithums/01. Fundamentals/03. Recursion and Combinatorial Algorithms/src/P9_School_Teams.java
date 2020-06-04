@@ -41,8 +41,8 @@ public class P9_School_Teams {
         StringBuilder sb = new StringBuilder();
         for (String[] girlGroup : g) {
             for (String[] BoyGroup : b) {
-                sb.append(String.join(", ", girlGroup)).append(", ");
-                sb.append(String.join(", ", BoyGroup)).append(System.lineSeparator());
+                sb.append(String.join(", ", girlGroup)).append(", ")
+                    .append(String.join(", ", BoyGroup)).append(System.lineSeparator());
             }
         }
         System.out.println(sb.toString().trim());
