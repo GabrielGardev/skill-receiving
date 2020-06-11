@@ -9,15 +9,16 @@ public class P01_Distance_between_Vertices {
     public static Map<Integer, Integer> indexMapper = new HashMap<>();
 
     public static void main(String[] args) throws IOException {
-
-
         int n = Integer.parseInt(reader.readLine());
         graph = new int[n + 1][];
 
         int numberOfPairs = Integer.parseInt(reader.readLine());
 
         fillGraph(n);
+        traversPairs(numberOfPairs);
+    }
 
+    private static void traversPairs(int numberOfPairs) throws IOException {
         while (numberOfPairs-- > 0) {
             int[] pairs = Arrays.stream(reader.readLine().split("-"))
                     .mapToInt(Integer::parseInt)
@@ -27,7 +28,7 @@ public class P01_Distance_between_Vertices {
 
             System.out.print(String.format("{%d, %d} -> ", source, destination));
 
-            int[] prev = new int[n + 1];
+            int[] prev = new int[graph.length];
             Arrays.fill(prev, -1);
 
             source = indexMapper.get(source);
