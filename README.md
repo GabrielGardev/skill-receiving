@@ -1,1 +1,1 @@
-Exercises and exams with Java and C#. Problem solving
+Exercises and exams with different languages. Problem solving in one place.
