@@ -50,7 +50,7 @@ public class P01_Cable_Network {
     private static int cost;
     private static boolean[] visited;
 
-    private static Map<Integer, List<Edge>> graph = new LinkedHashMap<>();
+    private static final Map<Integer, List<Edge>> graph = new LinkedHashMap<>();
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -120,4 +120,3 @@ public class P01_Cable_Network {
         }
     }
 }
-
