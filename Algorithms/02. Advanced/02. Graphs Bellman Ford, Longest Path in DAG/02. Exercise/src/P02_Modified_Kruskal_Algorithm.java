@@ -100,7 +100,6 @@ public class P02_Modified_Kruskal_Algorithm {
                 parents[firstRoot] = secondRoot;
             }
         }
-
         return forest;
     }
     public static int findRoot(int node, int[] parents) {
@@ -114,7 +113,6 @@ public class P02_Modified_Kruskal_Algorithm {
             parents[node] = root;
             node = oldParent;
         }
-
         return node;
     }
 }
