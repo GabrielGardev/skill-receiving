@@ -16,7 +16,6 @@ public class StronglyConnectedComponents {
                 dfs(node);
             }
         }
-
         setReversedGraph();
 
         visited = new boolean[targetGraph.length];
