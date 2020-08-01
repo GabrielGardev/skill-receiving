@@ -29,7 +29,7 @@ public class P03_Road_Trip {
                 }
             }
         }
-
+        
         System.out.println("Maximum value: " + dp[values.length][capacity]);
     }
 }
